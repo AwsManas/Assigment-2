@@ -5,7 +5,7 @@ In this project, we  utilize the [Google Local Reviews](https://cseweb.ucsd.edu/
 
 We show that the performance of machine/deep learning models improve when we provide temporal, spatial as well as historical data. In other words, additional metadata improves the predictive power of a regression model.
 
-Please refer to [Report](https://github.com/sayhitosandy/Temporal-and-Spatial-Feature-Analysis/blob/main/Report.pdf) for more details.
+Please refer to [Report](https://github.com/AwsManas/Temporal-and-Spatial-Feature-Analysis/blob/main/Report.pdf) for more details.
 
 ## Contributors
 1. Sanidhya Singal
